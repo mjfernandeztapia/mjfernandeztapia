@@ -50,12 +50,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mjfernandeztapia/mjfernandeztapia/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31um7azyizaq6a47dcn3aga7vyau">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31um7azyizaq6a47dcn3aga7vyau&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is María José and I'm a Biomedical Engineer</p>
+<p align="left">My name is María José</p>
 
 ###
 

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning Machine Learning & Deep Learning with Python as part of the at MITx's Micromaster in Statistics and Data Science <br>🎯 Goals: Keep learning, building cool health tech, and maybe move to Zurich or NYC someday 👀<br>🎲 Fun fact: I debug medical devices by day and create playlists by night</p>
+<p align="left">✨ Creating bugs since 2002<br>📚 I'm currently learning Machine Learning & Deep Learning with Python as part of the MITx's Micromaster in Statistics and Data Science <br>🎯 Goals: Keep learning, building cool health tech, and maybe move to Zurich or NYC someday 👀<br>🎲 Fun fact: I debug medical devices by day and create playlists by night</p>
 
 ###
 

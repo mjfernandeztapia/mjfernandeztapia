@@ -49,18 +49,17 @@ Building the future of Digital Health through algorithms and simulation. Current
 </div>
 
 ###
-
-<h2 align="left">GitHub Stats</h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjfernandeztapia&layout=compact&theme=vision-friendly-dark&hide_border=true" height="170" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mjfernandeztapia&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="170" alt="GitHub Stats" />
-</div>
-
 ###
 
-<h2 align="left">Contribution Graph</h2>
+
+
 <picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjfernandeztapia/mjfernandeztapia/output/pacman-contribution-graph-dark.svg">
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjfernandeztapia/mjfernandeztapia/output/pacman-contribution-graph.svg">
+
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mjfernandeztapia/mjfernandeztapia/output/pacman-contribution-graph.svg">
+
 </picture>
+
